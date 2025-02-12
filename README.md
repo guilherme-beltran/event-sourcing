@@ -61,7 +61,7 @@ Each event is timestamped and used to track account changes over time.
 1. Clone the repository:
    ```sh
    git clone https://github.com/guilherme-beltran/event-sourcing.git
-   cd event-sourcing
+   cd EventSourcing
    ```
 2. Build the project:
    ```sh
